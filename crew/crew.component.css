@@ -1,0 +1,8 @@
+ul {
+  border: 2px dotted red;
+}
+
+li {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-right: 10px;
+}
